@@ -1,0 +1,27 @@
+{
+    "INOVADF_NFe":  {
+                        "Version":  "4.0.0.0",
+                        "Filename":  "INOVADF_NFe.dll"
+                    },
+    "InovaDF":  {
+                    "Version":  "4.0.0.0",
+                    "Filename":  "InovaDF.dll"
+                },
+    "Infra":  {
+                  "Version":  "4.0.0.0",
+                  "Filename":  "Infra.dll"
+              },
+    "NFCe":  {
+                 "Version":  "5.0.0.2",
+                 "Filename":  "NFCe.zip"
+             },
+    "PackageVersion":  "1.12",
+    "Model":  {
+                  "Version":  "4.1.0.0",
+                  "Filename":  "Model.dll"
+              },
+    "Gerenciador":  {
+                        "Version":  "5.0.0.2",
+                        "Filename":  "Gerenciador.zip"
+                    }
+}
