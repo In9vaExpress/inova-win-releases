@@ -12,16 +12,16 @@
                   "Filename":  "Infra.dll"
               },
     "NFCe":  {
-                 "Version":  "5.1.1.3",
+                 "Version":  "5.1.1.4",
                  "Filename":  "NFCe.zip"
              },
-    "PackageVersion":  "1.21",
+    "PackageVersion":  "1.22",
     "Model":  {
                   "Version":  "4.1.0.0",
                   "Filename":  "Model.dll"
               },
     "Gerenciador":  {
-                        "Version":  "5.1.1.5",
+                        "Version":  "5.1.1.6",
                         "Filename":  "Gerenciador.zip"
                     }
 }
