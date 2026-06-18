@@ -15,9 +15,9 @@
                  "Version":  "5.4.5.6",
                  "Filename":  "NFCe.zip"
              },
-    "PackageVersion":  "1.31",
+    "PackageVersion":  "1.32",
     "Model":  {
-                  "Version":  "5.1.0.0",
+                  "Version":  "5.1.1.0",
                   "Filename":  "Model.dll"
               },
     "Gerenciador":  {
