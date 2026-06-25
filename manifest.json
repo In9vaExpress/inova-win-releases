@@ -12,10 +12,10 @@
                   "Filename":  "Infra.dll"
               },
     "NFCe":  {
-                 "Version":  "5.5.7.6",
+                 "Version":  "5.5.8.6",
                  "Filename":  "NFCe.zip"
              },
-    "PackageVersion":  "1.40",
+    "PackageVersion":  "1.41",
     "Model":  {
                   "Version":  "5.1.1.0",
                   "Filename":  "Model.dll"
