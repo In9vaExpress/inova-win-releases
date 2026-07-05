@@ -15,13 +15,13 @@
                  "Version":  "5.5.10.8",
                  "Filename":  "NFCe.zip"
              },
-    "PackageVersion":  "1.51",
+    "PackageVersion":  "1.52",
     "Model":  {
                   "Version":  "5.2.2.0",
                   "Filename":  "Model.dll"
               },
     "Gerenciador":  {
-                        "Version":  "5.7.10.12",
+                        "Version":  "5.7.10.13",
                         "Filename":  "Gerenciador.zip"
                     }
 }
